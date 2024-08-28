@@ -1,5 +1,8 @@
 # Mohammad Farhan
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ffarhhan)
+
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ffarhhan&style=for-the-badge">
+</a>
 
 👋 Hi, I'm Mohammad Farhan, a Senior Software Engineer with 7+ years of experience in Ruby on Rails, React.js, and system design. I enjoy building scalable applications and driving innovation.
 
