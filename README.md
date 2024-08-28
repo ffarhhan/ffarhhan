@@ -1,7 +1,7 @@
-## Hi there 👋
-
+# Mohammad Farhan
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ffarhhan)
 
+👋 Hi, I'm Mohammad Farhan, a Senior Software Engineer with 7+ years of experience in Ruby on Rails, React.js, and system design. I enjoy building scalable applications and driving innovation.
 
 Thanks for checking out my profile. If you wanna say hi, I'll be happy to meet you. You can contact me using email given in my profile.😃
 
